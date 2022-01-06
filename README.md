@@ -23,7 +23,6 @@ Na raiz do projeto de teste, execute o seguinte comando:
 * [Chrome Driver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
 * [Chrome Driver - Linux](https://makandracards.com/makandra/29465-install-chromedriver-on-linux)
 * [Firefox - GeckoDriver](https://github.com/mozilla/geckodriver/releases)
-```
 
 ## Executando os testes
 Na raiz do projeto de teste, execute o seguinte comando:  
