@@ -3,6 +3,9 @@ Stack para teste automatizado web, utilizando Cucumber, Capybara e SitePrism.
 * [Cucumber](https://docs.cucumber.io/)
 * [Capybara](https://github.com/teamcapybara/capybara)
 * [SitePrism](https://github.com/site-prism/site_prism)
+* [rspec] (https://rubygems.org/gems/respec)
+* [seleniun-webdrivers](https://rubygems.org/gems/selenium-webdriver)
+* [webdrivers](https://rubygems.org/gems/webdrivers)
 
 ## Setup
 ### Instalar o RBENV
@@ -35,7 +38,7 @@ Na raiz do projeto de teste, execute o seguinte comando:
 
 ### Executando o teste com argumentos
 Para executar o teste especificando o profile(navegador, ambiente ou tipo de relatório), execute o seguinte comando:
-```bundle exec cucumber -p firefox -p dev```  
+```bundle exec cucumber'''  
 No arquivo /config/cucumber.yml, está a lista de perfis disponíveis.
 
 ### Executando o teste com tags
