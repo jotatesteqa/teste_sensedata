@@ -1,5 +1,5 @@
 # Desafio Sensedata
-Stack para teste automatizado web, utilizando Cucumber, Capybara e SitePrism.  
+Stack utilizada na construção do desafio.  
 * [Cucumber](https://docs.cucumber.io/)
 * [Capybara](https://github.com/teamcapybara/capybara)
 * [SitePrism](https://github.com/site-prism/site_prism)
